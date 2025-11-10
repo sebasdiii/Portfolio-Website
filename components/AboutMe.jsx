@@ -11,7 +11,6 @@ const TAB_DATA = [
           <ul className="list-disc pl-2">
                 <li>SQL</li>
                 <li>Python</li>
-                <li>React</li>
                 <li>Java</li>
                 <li>C++</li>
                 <li>C</li>
@@ -21,6 +20,7 @@ const TAB_DATA = [
                 <li>Microsoft Office</li>
                 <li>VS Code</li>
                 <li>Power BI</li>
+                <li>Agile</li>
                 <li>Project Management</li>
           </ul>
         ),
