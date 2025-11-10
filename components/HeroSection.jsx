@@ -35,7 +35,7 @@ const HeroSection = () => {
                     .typeString`<span style="color:#FF77FF">Data Analyst</span>`
                     .pauseFor(1500)
                     .deleteAll()
-                    .typeString`<span style="color:#893BFF">Front-End Developer</span>`
+                    .typeString`<span style="color:#893BFF">Developer</span>`
                     .pauseFor(1500)
                     .deleteAll()
                     .start();
@@ -54,13 +54,13 @@ const HeroSection = () => {
               </Link>
              
               <Link
-                href="https://drive.google.com/file/d/1IW4xnuJg8nR77ESg9hJ0Fc3ZLgE_HFMe/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1bM6rPM6pUq_rDT_lW3cgBCE7cXr3MRHn/view?usp=drive_link"
                 className="px-6 inline-block py-3 rounded-full mr-4 border-solid border-2  border-pink-500 hover:bg-pink-400">
                 <span className="text-xl text-white">View my Resume</span>
               </Link>
               
               <Link
-                href="https://drive.google.com/file/d/1PHK4Cwp4Dl5Wc0F2tjJSrEXpcGlGKj6d/view?usp=drive_link" 
+                href="https://drive.google.com/file/d/1w7hSk8EeoOq3tsAY_SigjNdu4QMBrCq4/view?usp=drive_link" 
                 className="px-12 mb-4 inline-block py-3 rounded-full mr-4 border-solid border-2 border-indigo-600 hover:bg-violet-600">
                 <span className="text-xl text-white">Transcript</span>
               </Link>

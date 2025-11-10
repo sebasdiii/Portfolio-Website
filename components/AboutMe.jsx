@@ -11,6 +11,7 @@ const TAB_DATA = [
           <ul className="list-disc pl-2">
                 <li>SQL</li>
                 <li>Python</li>
+                <li>React</li>
                 <li>Java</li>
                 <li>C++</li>
                 <li>C</li>
@@ -18,8 +19,9 @@ const TAB_DATA = [
                 <li>Rust</li>
                 <li>SAS</li>
                 <li>Microsoft Office</li>
-                <li>Teamwork</li>
-                <li>Communication</li>
+                <li>VS Code</li>
+                <li>Power BI</li>
+                <li>Project Management</li>
           </ul>
         ),
     },
@@ -64,7 +66,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">Hi, I'm Chong Weng Thim, an optimistic data analytics student! I thrive in dynamic environments and excel at decoding data patterns. Eager to apply my skills to roles like Data Analyst, Business Analyst, and Data Scientist, where I can leverage my analytical prowess for impactful decision-making. </p>
+                    <p className="text-base text-justify lg:text-lg">Hi, I'm Chong Weng Thim, a tech-savvy graduate passionate about leveraging technology and analytics to solve real-world problems. I excel at interpreting data, optimizing processes, and learning new tools quickly. I’m looking for tech-related opportunities where I can apply my skills to drive results and innovation. </p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
                         <TabButton 
