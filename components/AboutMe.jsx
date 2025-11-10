@@ -15,6 +15,7 @@ const TAB_DATA = [
                 <li>C++</li>
                 <li>C</li>
                 <li>R</li>
+                <li>Rust</li>
                 <li>SAS</li>
                 <li>Microsoft Office</li>
                 <li>Teamwork</li>
