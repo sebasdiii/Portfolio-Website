@@ -66,7 +66,7 @@ const AboutMe = () => {
                 </div>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h1 className="text-4xl font-bold text-white mb-4">About Me</h1>
-                    <p className="text-base text-justify lg:text-lg">Hiii, I'm Chong Weng Thim, a tech-savvy graduate passionate about leveraging technology and analytics to solve real-world problems. I excel at interpreting data, optimizing processes, and learning new tools quickly. I’m looking for tech-related opportunities where I can apply my skills to drive results and innovation. </p>
+                    <p className="text-base text-justify lg:text-lg">Hi, I'm Chong Weng Thim, a tech-savvy graduate passionate about leveraging technology and analytics to solve real-world problems. I excel at interpreting data, optimizing processes, and learning new tools quickly. I’m looking for tech-related opportunities where I can apply my skills to drive results and innovation. </p>
                     <div className="flex flex-row mt-8">
 {/* 1e */}
                         <TabButton 
