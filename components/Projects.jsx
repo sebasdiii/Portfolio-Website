@@ -39,6 +39,18 @@ const projectData = [
         image: "/SAS.png",
         gitUrl: "https://github.com/AdaMC2212/Car-Insurance-Claim-Data-Management---SAS-Programming/tree/main?tab=readme-ov-file"
     },
+    {
+        id: 6,
+        title: "NLP Spam Email Classification",
+        description: "This is a machine learning project that classifies emails as spam or ham using NLP techniques.",
+        gitUrl: "https://github.com/sebasdiii/NLP-Spam-Email-Classification"
+    },
+    {
+        id: 7,
+        title: "Deep Learning Garbage Classification",
+        description: "This is a machine learning project that  classifies images of garbage into different categories using deep learning techniques.",
+        gitUrl: "https://github.com/sebasdiii/Deep-Learning-Garbage-Classification"
+    },
     
 
 ];
